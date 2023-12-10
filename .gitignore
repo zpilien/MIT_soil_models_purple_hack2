@@ -1,0 +1,7 @@
+Data_Processed/
+Models/
+Predictions/
+.DS_Store
+.RData
+.Rhistory
+Soil-Predictions-Example.Rproj
